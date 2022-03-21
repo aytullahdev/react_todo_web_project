@@ -8,6 +8,7 @@ You can add Your daily task and Delete them when you finished your task.
     1) useState
     2) useEffect
     3) useContext
+    4) useReducer
 
 ## Used Storages
 In this Project we used LocalStorage browser Api to saved our task locally in local storage the key is "tasks" to get And modify  the value 
